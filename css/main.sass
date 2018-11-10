@@ -1,0 +1,245 @@
+---
+---
+
+// Variables
+$base-font-size: 1.15em
+$bigger-font-size: 1.3em
+
+
+// Resets and global styles
+*
+    box-sizing: border-box
+
+::selection
+    background-color: transparentize(#007989, 0.5)
+
+@mixin container
+    width: 100%
+    max-width: 800px
+    margin: 0 auto
+
+body
+    font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif
+    color: #333
+    padding: 30px
+    line-height: 1.5em
+    @include container
+    @media screen and (min-width: 700px)
+        padding: 30px 40px
+a
+    color: #007989
+
+p
+    font-size: $base-font-size
+    line-height: 1.5em
+    @media screen and (min-width: 700px)
+        font-size: $bigger-font-size
+
+
+// Header
+.site-header
+    margin-top: 20px
+    margin-bottom: 50px
+    @media screen and (min-width: 700px)
+        margin-top: 70px
+        margin-bottom: 90px 
+    a
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+.site-title
+    font-size: 2.4em
+    margin-top: 0px
+    line-height: 1em
+    margin-bottom: 10px
+    @media screen and (min-width: 700px)
+        font-size: 2.6em
+        margin-bottom: 20px
+
+.site-tagline
+    margin-top: 0px
+    font-weight: normal
+    line-height: 1.1em
+    @media screen and (min-width: 700px)
+        font-size: 1.8em
+        line-height: 1.2em
+
+.nav-menu
+    ul
+        list-style-type: none
+        padding: 0
+    li
+        display: inline-block
+        margin-right: 10px
+        font-size: $base-font-size
+        @media screen and (min-width: 700px)
+            font-size: $bigger-font-size
+            margin-right: 15px
+
+
+// Home page
+.posts-list
+    list-style-type: none
+    padding: 0
+    margin-bottom: 60px
+    @media screen and (min-width: 700px)
+        margin-bottom: 80px
+
+.post-item
+    margin-bottom: 40px
+    @media screen and (min-width: 700px)
+        margin-bottom: 60px
+
+.post-item-date
+    color: transparentize(#333, 0.3)
+    font-size: 1em
+    margin-bottom: 10px
+    display: inline-block
+    @media screen and (min-width: 700px)
+        font-size: $base-font-size
+        margin-bottom: 15px
+
+.post-item-title
+    margin-top: 0px
+    font-size: 1.6em
+    font-weight: normal
+    margin-bottom: 15px
+    @media screen and (min-width: 700px)
+        font-size: 2em
+        margin-bottom: 20px
+
+.post-item-excerpt
+    margin-top: 0px
+
+
+// Footer
+.site-footer
+    border-top: 1px solid #dfdfdf
+    p
+        color: transparentize(#333, 0.3)
+        font-size: $base-font-size
+
+
+// Single post page
+.post-header
+    margin-top: 20px
+    margin-bottom: 50px
+    @media screen and (min-width: 700px)
+        margin-top: 70px
+        margin-bottom: 70px 
+    a
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+.back-home
+    font-size: $base-font-size
+    line-height: 1.5em
+    font-weight: bold
+    margin-top: 0px
+    margin-bottom: 10px
+    display: inline-block
+    @media screen and (min-width: 700px)
+        font-size: $bigger-font-size
+
+.post-title
+    margin-top: 0px
+    font-size: 2.6em
+    line-height: 1.1em
+    margin-bottom: 15px
+    @media screen and (min-width: 700px)
+        font-size: 3.2em
+
+.post-date
+    font-size: $base-font-size
+    line-height: 1.5em
+    color: transparentize(#333, 0.3)
+    margin-top: 0px
+    @media screen and (min-width: 700px)
+        font-size: $bigger-font-size 
+
+.post-content
+    margin-bottom: 60px
+    @media screen and (min-width: 700px)
+        margin-bottom: 80px
+
+    // Content from markdown
+    p, h1, h2, h3, h4, h5
+        margin-bottom: 20px
+        max-width: 100%
+        @media screen and (min-width: 700px)
+            margin-bottom: 30px
+    h1, h2, h3, h4, h5
+        margin-top: 50px
+        line-height: 1.1em
+        @media screen and (min-width: 700px)
+            margin-top: 70px
+    h2
+        font-size: 2em
+        @media screen and (min-width: 700px)
+            font-size: 2.4em
+    h3
+        font-size: 1.6em
+        @media screen and (min-width: 700px)
+            font-size: 2em
+    h4
+        font-size: 1.3em
+        @media screen and (min-width: 700px)
+            font-size: 1.8em
+
+    img, iframe, video
+        max-width: 100%
+        width: 100%
+    li
+        font-size: $base-font-size
+        line-height: 1.5em
+        margin-top: 0px
+        margin-bottom: 5px
+        @media screen and (min-width: 700px)
+            font-size: $bigger-font-size      
+    p, ul
+        margin-bottom: 20px
+        max-width: 100%  
+        @media screen and (min-width: 700px)
+            margin-bottom: 30px
+    
+.panel
+    background: rgba(0,0,0,0.05)
+    padding: 30px
+    margin: 40px 0px
+    p
+        margin: 0 !important
+        font-size: 1.3em
+
+
+
+.pagination
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: flex-start
+    margin: 40px 0px 40px 0px
+    width: 100%
+    @media screen and (min-width: 700px)
+        margin-top: 60px
+
+.next-link, .previous-link
+    flex: 1
+    padding: 10px
+    a
+        font-size: $base-font-size
+        @media screen and (min-width: 700px)
+            font-size: $bigger-font-size 
+    p        
+        margin-top: 10px
+        color: transparentize(#333, 0.3)
+
+    .arrow
+        color: #007989
+
+.previous-link
+    text-align: left
+
+.next-link
+    text-align: right

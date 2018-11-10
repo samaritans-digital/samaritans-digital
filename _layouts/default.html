@@ -1,0 +1,44 @@
+{% include header.html %}
+
+
+
+<header class="post-header">
+    <span class="back-home"><a href="/">Samaritans Digital</a></span>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+</header>
+
+<main class="post-content">
+    {{ content }}
+    <section class="panel">
+        <p>If you found this useful, why not <a href="mailto:?subject=I%20wanted%20to%20share%20this%20post%20with%20you%20from%20the%20Samaritans%20Digital%20blog&body={{ page.title }}%0A{{ site.url }}{{ page.url }}">share it with someone?</a></p>
+    </section>
+
+
+    <section class="pagination">
+        {% if page.previous %}
+            <div class="previous-link">
+                <span class="arrow">←</span> <a rel="prev" href="{{ page.previous.url }}">Previous post</a>
+                <p>{{ page.previous.title }}</p>
+            </div>
+        {% endif %}
+        {% if page.next %}
+            <div class="next-link">
+                <a rel="next" href="{{ page.next.url }}">Next post</a>  <span class="arrow">→</span>
+                <p>{{ page.next.title }}</p>
+            </div>
+        {% endif %}        
+    </section>
+
+
+
+</main>
+
+
+
+
+
+
+
+
+{% include footer.html %}
