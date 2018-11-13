@@ -22,7 +22,7 @@ Here are some of the bigger things we're focusing on.
 
 ## Making it easy to reschedule
 
-Samaritans is powered by volunteer effort, and we want to make sure that by streamlining the recruitment process, we create *less* work for our branch volunteers, not more.
+Samaritans is powered by volunteer effort, and we want to make sure that by streamlining the recruitment process, we create *less* work for our branch volunteers, not more. Dealing with missed interviews is a key factor in that.
 
 Although users can now book an interview slot straight away, it's still difficult for them to cancel or amend that slot if they find out later that they can't attend.
 
