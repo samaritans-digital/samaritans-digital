@@ -11,3 +11,5 @@ Our goal is to equip the charity to **be there for everyone**. At the moment, we
 - Better ways to recruit and train volunteers
 - New ways to help people beyond phone calls, including instant messaging
 - Making it easier for our national volunteer network to collaborate
+
+This blog exists to share things we discover and emerging practice within our field, [in the spirit of openness](https://betterdigital.services/principles/).

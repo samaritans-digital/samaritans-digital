@@ -15,7 +15,7 @@ p { font-size: 1.15em; line-height: 1.5em; }
 .site-header a { text-decoration: none; }
 .site-header a:hover { text-decoration: underline; }
 
-.site-title { font-size: 2.4em; margin-top: 0px; line-height: 1em; margin-bottom: 10px; }
+.site-title { font-size: 2.4em; margin-top: 0px; line-height: 1.1em; margin-bottom: 7px; }
 @media screen and (min-width: 700px) { .site-title { font-size: 2.6em; margin-bottom: 20px; } }
 
 .site-tagline { margin-top: 0px; font-weight: normal; line-height: 1.3em; }
@@ -32,10 +32,10 @@ p { font-size: 1.15em; line-height: 1.5em; }
 @media screen and (min-width: 700px) { .post-item { margin-bottom: 60px; } }
 
 .post-item-date { color: rgba(51, 51, 51, 0.7); font-size: 1em; margin-bottom: 10px; display: inline-block; }
-@media screen and (min-width: 700px) { .post-item-date { font-size: 1.15em; margin-bottom: 15px; } }
+@media screen and (min-width: 700px) { .post-item-date { font-size: 1.15em; margin-bottom: 12.5px; } }
 
-.post-item-title { margin-top: 0px; font-size: 1.6em; font-weight: normal; margin-bottom: 15px; }
-@media screen and (min-width: 700px) { .post-item-title { font-size: 2em; margin-bottom: 20px; } }
+.post-item-title { margin-top: 0px; font-size: 1.6em; line-height: 1.2em; font-weight: normal; margin-bottom: 15px; }
+@media screen and (min-width: 700px) { .post-item-title { font-size: 2em; margin-bottom: 17.5px; } }
 
 .post-item-excerpt { margin-top: 0px; }
 
@@ -50,7 +50,7 @@ p { font-size: 1.15em; line-height: 1.5em; }
 .back-home { font-size: 1.15em; line-height: 1.5em; font-weight: bold; margin-top: 0px; margin-bottom: 10px; display: inline-block; }
 @media screen and (min-width: 700px) { .back-home { font-size: 1.3em; } }
 
-.post-title { margin-top: 0px; font-size: 2.6em; line-height: 1.1em; margin-bottom: 15px; }
+.post-title { margin-top: 0px; font-size: 2.6em; line-height: 1.1em; margin-bottom: 12.5px; }
 @media screen and (min-width: 700px) { .post-title { font-size: 3.2em; } }
 
 .post-date { font-size: 1.15em; line-height: 1.5em; color: rgba(51, 51, 51, 0.7); margin-top: 0px; }
