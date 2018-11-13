@@ -71,7 +71,7 @@ That means that regardless of where in the country you are, you can start to ben
 Once this is done, we're in a better position to make small, continous improvements, rather than saving everything for a risky, big release at some point in the future.
 
 
-*We're looking forward to testing out all these changes with real users and seeing how they perform.*
+*We're looking forward to testing out all these changes with real users over the next few weeks and seeing how they perform.*
 
 
 ## Further reading
