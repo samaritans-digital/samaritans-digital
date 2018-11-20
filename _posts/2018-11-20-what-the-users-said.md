@@ -1,5 +1,5 @@
 ---
-title: How users managed with the new volunteer recruitment journey
+title: What we learned from user research on the volunteer recruitment journey
 excerpt: Here's what we found when we tested out the new way to become a volunteer with real people.
 ---
 
