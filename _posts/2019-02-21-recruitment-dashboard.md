@@ -39,3 +39,8 @@ The recruitment dashboard is a very early version of what will eventually be mad
 Many features we know are needed aren’t technically possible right now. For instance, the list of applicants updates several times per day, rather than in real time.
 
 By making the dashboard available now and inviting feedback, we hope that we can learn more about what our branch volunteers need from tools like this, and keep improving them over time.
+
+## Further reading
+
+* [Resources for the recruitment pilot in the north of England](https://www.samaritansnet.org/display/BH/Pathfinder+resources+page) (current Samaritans volunteers and staff only)
+* [The principles we're adopting by building the recruitment dashboard in this way](https://betterdigital.services/principles/)
