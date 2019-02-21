@@ -34,7 +34,7 @@ This approach is similar to that for [naming new government services on GOV.UK](
 
 ## Overriding automation when necessary
 
-At the moment, we’re trying out a new, simpler way to become a volunteer in the north of England. Between increased automation and giving applicants a lot more control over the process, there’s much less admin for senior branch volunteers to do.
+At the moment, we’re [trying out a new, simpler way to become a volunteer](https://samaritans-digital.github.io/volunteer-recruitment-improvements.html) in the north of England. Between increased automation and giving applicants a lot more control over the process, there’s much less admin for senior branch volunteers to do.
 
 While volunteers appreciate this change, sometimes it’s necessary to override the default automated process.
 
@@ -64,11 +64,13 @@ This will let us automate some parts of the process, like reminding volunteers o
 
 Recruiting and training new volunteers is a big admin burden, but every Samaritans branch has already invented their own process to deal with that workload.
 
+![Existing processes are often "good enough" compared to digital alternatives](/uploads/calendar.jpg)
+
 Usually, that process relies heavily on paper files, binders and spreadsheets, and is heavily customised for the situation of that particular branch. A large metropolitan branch with 100 or more volunteers will need a very different process to a smaller branch with only a dozen.
 
 In a few branches, these paper files are already supplemented with simple software tools.
 
-It’s very possible that senior branch volunteers—the intended users—won’t see these new branch management tools as an improvement over what they already do.
+It’s very possible that senior branch volunteers—the intended users—won’t see these new branch management tools as an improvement over what they already do. The existing process isn't perfect, but is "good enough", considering the alternative of major change.
 
 We need to make sure that these new branch management tools:
 
