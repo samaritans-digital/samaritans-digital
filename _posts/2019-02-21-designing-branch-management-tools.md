@@ -31,7 +31,7 @@ When the tools are named in this way, it’s easy for volunteers to find the rig
 
 Users will probably access these tools by clicking tiles on our new intranet homepage.
 
-![Tiles on the intranet homepage, some for content, some for branch management tools.](/uploads/intranet_ia.jpg)
+![Tiles on the intranet homepage, some for content, some for branch management tools.](/uploads/intranet_ia.png)
 
 This approach is similar to that for [naming new government services on GOV.UK](https://www.gov.uk/service-manual/design/naming-your-service).
 
