@@ -78,3 +78,7 @@ We need to make sure that these new branch management tools:
 These new tools will only see widespread use if we get all both of these things right.
 
 
+## Further reading
+
+- [The principles we're following in designing and building these new tools](https://betterdigital.services/principles/)
+- [GOV.UK's guide to naming digital services](https://www.gov.uk/service-manual/design/naming-your-service)
