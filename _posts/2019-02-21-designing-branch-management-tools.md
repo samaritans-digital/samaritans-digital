@@ -64,7 +64,7 @@ This will let us automate some parts of the process, like reminding volunteers o
 
 Recruiting and training new volunteers is a big admin burden, but every Samaritans branch has already invented their own process to deal with that workload.
 
-![Existing processes are often "good enough" compared to digital alternatives](/uploads/calendar.jpg)
+![Existing processes are often "good enough" compared to digital alternatives](/uploads/calendars.jpg)
 
 Usually, that process relies heavily on paper files, binders and spreadsheets, and is heavily customised for the situation of that particular branch. A large metropolitan branch with 100 or more volunteers will need a very different process to a smaller branch with only a dozen.
 
