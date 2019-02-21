@@ -6,9 +6,9 @@ We’ve been trying out a new, simpler way to become a Samaritans volunteer in t
 
 We’ve shortened the journey so that a prospective volunteer can now learn about the Samaritans charity and the roles on offer, start to appreciate the emotional demands of the listening role, find a branch near them and book an interview, all in one single online transaction.
 
-Although the new experience is performing well with end users, the branch volunteers who manage and administrate the service are making do an awkward set of tools based on email notifications and Eventbrite.
+Although the new experience is performing well with end users, the branch volunteers who manage and administrate the service are making do with an awkward set of tools based on email notifications and [Eventbrite](http://eventbrite.co.uk).
 
-Once the current experiment finishes, we’re planning to introduce new branch management tools that will make it much easier for our branch volunteers to monitor and control recruitment, but that’s still a long way off.
+Once the current experiment finishes, we’re planning to introduce [new branch management tools](https://samaritans-digital.github.io/designing-branch-management-tools.html) that will make it much easier for our branch volunteers to monitor and control recruitment, but that’s still a long way off.
 
 Between now and then, there’s a lot that we still need to discover about branch volunteer needs.
 
